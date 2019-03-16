@@ -2,35 +2,21 @@
   "name": "card.io.cordova.mobilesdk",
   "version": "2.1.0",
   "description": "This plugin allows to add card.io scanning capabilities to your application using card.io SDK Native library",
-  "cordova": {
-    "id": "card.io.cordova.mobilesdk",
-    "platforms": [
-      "ios",
-      "android"
-    ]
+  "main": "www/cdv-plugin-card-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/expcapitaldev/card.io-cordova-plugin"
+    "url": "git+https://github.com/expcapitaldev/card.io-cordova-plugin.git"
   },
   "keywords": [
-    "card.io",
-    "sdk",
-    "card-scanning",
-    "ecosystem:cordova",
-    "cordova-ios",
-    "cordova-android"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
+    "card.io"
   ],
   "author": "card.io",
-  "license": "MIT License, see LICENSE for details",
+  "license": "MIT",
   "bugs": {
-    "url": "https://stash.itcapital.io/scm/pub/card.io-cordova-plugin.git"
+    "url": "https://github.com/expcapitaldev/card.io-cordova-plugin/issues"
   },
-  "homepage": "https://stash.itcapital.io/scm/pub/card.io-cordova-plugin.git"
+  "homepage": "https://github.com/expcapitaldev/card.io-cordova-plugin#readme"
 }
