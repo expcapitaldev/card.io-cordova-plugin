@@ -1,10 +1,10 @@
 {
-  "name": "card.io.cordova.mobilesdk",
+  "name": "cordova-plugin-card-io-exp",
   "version": "2.1.0",
   "description": "This plugin allows to add card.io scanning capabilities to your application using card.io SDK Native library",
   "main": "www/cdv-plugin-card-io.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
