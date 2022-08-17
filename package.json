@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-card-io-exp",
-  "version": "2.1.1",
+  "version": "2.1.1-dev-1.0",
   "description": "This plugin allows to add card.io scanning capabilities to your application using card.io SDK Native library",
   "main": "www/cdv-plugin-card-io.js",
   "scripts": {

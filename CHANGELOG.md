@@ -1,6 +1,10 @@
 card.io Cordova Plugin Release Notes
 ====================================
 
+2.1.1-dev-1.0
+-----
+* Android: remove deprecated 'compile' from gradle
+
 2.1.0
 -----
 * iOS: Update to 5.4.1 for iOS card.io.
